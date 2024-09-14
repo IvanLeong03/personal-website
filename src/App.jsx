@@ -1,5 +1,5 @@
 import './App.css'
-import Header from './header'
+import Header from './Header'
 import Mainspace from './Mainspace'
 import Work from './Work'
 import About from './About'
