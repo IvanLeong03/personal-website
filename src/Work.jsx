@@ -7,6 +7,20 @@ const Work = () => {
     return (
         <div id='work' className="bg-cream">
             <h1 className="text-3xl p-12 font-Roboto">My work</h1>
+
+            <div className="flex flex-col md:flex-row-reverse items-center py-4">
+                <div className="w-full md:w-1/2 mx-16 p-6">
+                    <img src='not_found.jpg' alt='' class='h-16 w-16'></img>                
+                </div>
+                <div className="w-full md:w-1/2 mx-16 p-6 text-left">
+                    <h2 className="text-xl font-bold">Stay tuned</h2>
+                    <p className="mt-6 mb-4">It's a secret but I'm working on it right now, check for updates</p>
+                    <a className="text-sm underline text-blue-600" href="\\" target="_blank">
+                        view it here
+                    </a>
+                </div>
+            </div>
+
             <div className="flex flex-col md:flex-row items-center py-4">
 
                 <div className="w-full md:w-1/2 mx-16 p-6">
