@@ -38,7 +38,7 @@ const Work = () => {
                 </div>
             </div>
 
-            <div className="flex flex-col md:flex-row-reverse items-center py-4">
+            <div className="flex flex-col md:flex-row-reverse items-center py-4 mb-24">
                 <div className="w-full md:w-1/2 mx-16 p-6">
                     <img src={pomodoroImg}></img>                
                 </div>
@@ -50,8 +50,6 @@ const Work = () => {
                     </a>
                 </div>
             </div>
-
-            <div className="h-24"></div>
 
         </div>
 

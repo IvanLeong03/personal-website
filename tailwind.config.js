@@ -9,7 +9,7 @@ export default {
       colors: {
         'cream': '#FFFDF2',
         'darkgrey': '#323232',
-        'beige': '#FFEFCC',
+        'beige': '#fff6d2',
         'bgwhite': '#FCFCFC'
       },
       fontFamily: {

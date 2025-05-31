@@ -29,7 +29,7 @@ const About = () => {
 
 
     return (
-        <div id="about" className="bg-cream">
+        <div id="about" className="bg-beige">
             <h1 className="text-3xl p-12 font-Roboto">About me</h1>
             <div className="flex flex-col items-center">
 
